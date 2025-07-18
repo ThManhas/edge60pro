@@ -1,0 +1,42 @@
+[
+  {
+    "pergunta": "Como entrar no modo fastboot no Moto Edge 60 Pro?",
+    "resposta": "Desligue o aparelho e pressione e segure os botões de volume para baixo e de energia ao mesmo tempo até que o modo fastboot apareça na tela."
+  },
+  {
+    "pergunta": "Quais são os requisitos para usar o LMST?",
+    "resposta": "Você precisa de um PC com Windows 10 64 bits. Todos os drivers necessários serão baixados automaticamente após login no LMST online."
+  },
+  {
+    "pergunta": "Quais funções o LMST suporta?",
+    "resposta": "O LMST suporta funções como Reflash, Kill Switch, Device Info, PCB Provisioning, FOD Calibration, Battery Link, entre outras. A maioria requer o dispositivo em modo fastboot."
+  },
+  {
+    "pergunta": "Como calibrar o sensor FOD?",
+    "resposta": "No LMST, selecione 'Refurb/Cal > FOD Cal'. Siga os passos com os padrões Flesh Flat, Black Flat e Flesh Chart. Certifique-se de posicionar corretamente os padrões sobre o sensor."
+  },
+  {
+    "pergunta": "O que é o recurso Battery Link?",
+    "resposta": "Battery Link é usado após a substituição da placa-mãe ou bateria. Ele grava informações como data de fabricação e ID da bateria na PCB. Para produtos da UE, é necessário escanear o QR code da bateria."
+  },
+  {
+    "pergunta": "Quais cuidados devo ter ao manusear baterias de íon de lítio?",
+    "resposta": "Use luvas de proteção, óculos de segurança e ferramentas ESD. Nunca reutilize baterias removidas, nem tente abrir, soldar ou reparar baterias. Sempre descarte conforme as normas locais."
+  },
+  {
+    "pergunta": "Quais ferramentas são necessárias para desmontar o aparelho?",
+    "resposta": "Você precisará de: chave torque PH00, espátula plástica, pinça antiestática, tapete ESD, luvas, secador ou forno (máx. 80°C), entre outros."
+  },
+  {
+    "pergunta": "Como remover a bateria com segurança?",
+    "resposta": "Aqueça o aparelho a 80°C por 10 minutos. Use uma espátula plástica para soltar a bateria com cuidado. Nunca use força excessiva ou ferramentas metálicas."
+  },
+  {
+    "pergunta": "Qual o código da placa-mãe para o modelo XT2507-1 no Brasil?",
+    "resposta": "Para o modelo XT2507-1 (BR 12+512 P+E), o código da placa-mãe é SB28E61971."
+  },
+  {
+    "pergunta": "Quais são os acessórios compatíveis com o modelo XT2507-1 no Brasil?",
+    "resposta": "O carregador é o PLM 125W (SO28E42741) e o cabo USB é o MOTO C2C 6.5A 1m (SC18D71644)."
+  }
+]
